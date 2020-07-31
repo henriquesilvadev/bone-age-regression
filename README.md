@@ -9,23 +9,13 @@
   <img src="https://img.shields.io/github/issues/henriquesilvadev/bone-age-regression?style=flat-square&color=red"
          alt="GitHub issues">
   <a href="https://github.com/henriquesilvadev/bone-age-regression/pulls">
-  <img src="https://img.shields.io/github/issues-pr/henriquesilvadev/bone-age-regression?style=flat-square&color=blue"
-         alt="GitHub pull requests">
- 
-
-  <img alt="Contributors" src="https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square" href="#contributors-">
-
-  <br />
-
-  
+  <img src="https://img.shields.io/github/issues-pr/henriquesilvadev/bone-age-regression?style=flat-square&color=blue" alt="GitHub pull requests">
+  <img alt="Contributors" src="https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square" href="#contributors-">  
+</p>
 
   [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
-
-
-
-
-</p>
+<hr />
 
 # I2A2 Bone Age Regression
 
