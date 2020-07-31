@@ -25,6 +25,7 @@ My first competition on Kaggle 😵
 
 One of the main concerns of medicine and legal dentistry is the search for mechanisms that allow the determination of the age of people and, for the development of this work, the hand and wrist region was chosen to determine age and bone development, due to the chronological sequence it presents as well as the number of bones and epiphyses in a not very extensive area, making it possible to perform a single radiographic take, avoiding unnecessary exposure to the patient.
 
+Kaggle challenge: [https://www.kaggle.com/c/i2a2-bone-age-regression](https://www.kaggle.com/c/i2a2-bone-age-regression)
 
 Exploratory Data Analysis (EDA): [https://nbviewer.jupyter.org/github/henriquesilvadev/i2a2-bone-age-regression/blob/master/EDA.ipynb](https://nbviewer.jupyter.org/github/henriquesilvadev/i2a2-bone-age-regression/blob/master/EDA.ipynb)
 
