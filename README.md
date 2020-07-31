@@ -1,4 +1,4 @@
-![](https://storage.googleapis.com/backup-descktop/images/bone-age-regression-cover.png))
+![](https://storage.googleapis.com/backup-descktop/images/bone-age-regression-cover.png)
 
 <p align="center">
   <img alt="GitHub release (latest by date including pre-releases)" src="https://img.shields.io/github/v/release/henriquesilvadev/bone-age-regression?include_prereleases&style=flat-square">
