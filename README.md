@@ -100,11 +100,10 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://github.com/fernandocamargoti"><img src="https://avatars2.githubusercontent.com/u/3669312?s=400&u=3a96318d566e941f8048782081016510d4f4edde&v=4" width="100px;" alt=""/><br /><sub><b>Prof. Fernando Camargo </b></sub></a><br />
-    <!-- <a href="https://github.com/navendu-pottekkat/nsfw-filter/commits?author=YegorZaremba" title="Code">💻</a>  -->
-    <a href="#design-YegorZaremba" title="Design">🎨</a> <a href="#ideas-YegorZaremba" title="Ideas, Planning, & Feedback">🤔</a></td>
-      <td align="center"><a href="https://github.com/henriquehsilva"><img src="https://avatars3.githubusercontent.com/u/40860601?s=460&u=a31035b210c308987ec3830019186abbab646a00&v=4" width="100px;" alt=""/><br /><sub><b>Prof. Fernando Camargo </b></sub></a><br />
+    <a href="#ideas-YegorZaremba" title="Ideas, Planning, & Feedback">🧙</a></td>
+      <td align="center"><a href="https://github.com/henriquehsilva"><img src="https://avatars3.githubusercontent.com/u/40860601?s=460&u=a31035b210c308987ec3830019186abbab646a00&v=4" width="100px;" alt=""/><br /><sub><b>Henrique Silva </b></sub></a><br />
     <a href="https://github.com/navendu-pottekkat/nsfw-filter/commits?author=YegorZaremba" title="Code">💻</a> 
-    <a href="#design-YegorZaremba" title="Design">🎨</a> <a href="#ideas-YegorZaremba" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <a href="#design-YegorZaremba" title="Design">🧟</a>
   </tr>
 </table>
 
