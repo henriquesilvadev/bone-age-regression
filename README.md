@@ -1,6 +1,8 @@
 ![](https://storage.googleapis.com/backup-descktop/images/bone-age-regression-cover.png)
 
 <p align="center">
+
+  <a href="https://github.com/henriquesilvadev/bone-age-regression/releases/master">
   <img alt="GitHub release (latest by date including pre-releases)" src="https://img.shields.io/github/v/release/henriquesilvadev/bone-age-regression?include_prereleases&style=flat-square">
   <a href="https://github.com/henriquesilvadev/bone-age-regression/commits/master">
   <img src="https://img.shields.io/github/last-commit/henriquesilvadev/bone-age-regression?style=flat-square"
